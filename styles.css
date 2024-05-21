@@ -21,10 +21,12 @@ p {
   font-size: 20px;
 }
 
-.section1 {
+#image {
   width: 1275px;
+  display: block;
+  max-width: 100%;
+  height: auto;
   margin: auto;
-  height: 750px;
   border: 2px solid rgb(255, 255, 255);
   background-color: rgb(255, 255, 255);
 }
@@ -42,7 +44,7 @@ h3 {
   font-size: 25px;
 }
 
-.links {
+#img-caption {
   padding-left: 350px;
   font-size: 20px;
   margin-top: 50px;
