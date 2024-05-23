@@ -10,7 +10,7 @@ body {
   background-color: rgb(238, 238, 238);
 }
 
-.h1 {
+#title {
   text-align: center;
   font-size: 45px;
   margin-top: 50px;
@@ -54,7 +54,7 @@ h3 {
   text-align: center;
 }
 
-#ite1 {
+#cite1 {
   padding-left: 390px;
   font-size: 20px;
 }
