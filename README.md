@@ -57,14 +57,14 @@ If you'd like to contribute to this project, follow these steps:
 git clone https://github.com/zainabbehzad/Tribute-page.git
 3: Create a new branch: Create a new branch with a descriptive name to work on your contribution.
 
-    . git checkout -b feature/new-feature
+     git checkout -b feature/new-feature
 4: Make your changes: Make your changes to the project in your local environment. Ensure that your changes are in line with the project's coding conventions and style guidelines.
 
 5: Commit your changes: Once you've made your changes, commit them to your branch with clear and descriptive commit messages.
 
-    . git commit -m 'Add new feature'
+     git commit -m 'Add new feature'
 6: Push your changes: Push your changes to your forked repository on GitHub.
 
-    . git push origin feature/new-feature
+     git push origin feature/new-feature
     
 7: Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
