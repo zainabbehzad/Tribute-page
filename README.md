@@ -5,6 +5,7 @@
 > 🌟 👩‍💻This tribute page honors the life and legacy of Dr.Norman Borlaug, third from the left, trains biologistsin Mexico on how to increase wheat yields - part of his life-long war on hunger. Through this project, I am to celebrate their remarkable achievements, share inspiring stories about their character and impact, and preserve their memory for future generations.💻📝🚀
 
 ## Demo 📸
+![Screenshot (26)](https://github.com/zainabbehzad/Tribute-page/assets/168668702/af0595e7-73d7-4b21-829d-9450b01338ef)
 
 
 
