@@ -28,7 +28,8 @@ To use this project, follow these steps:
 Installation: If you haven't already, follow the installation instructions mentioned in the Installation section to clone the repository.
 
 Navigate to project directory:
-. cd Technical-Documentation-page
+
+   cd Technical-Documentation-page
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
@@ -53,17 +54,20 @@ Fork the repository: Fork the repository to your own GitHub account.
 
 Clone the repository: Clone the repository to your local machine.
 
-git clone https://github.com/zainabbehzad/Tribute-page.git
+    git clone https://github.com/zainabbehzad/Tribute-page.git
+
 Create a new branch: Create a new branch with a descriptive name to work on your contribution.
 
-    . git checkout -b feature/new-feature
+     git checkout -b feature/new-feature
+
 Make your changes: Make your changes to the project in your local environment. Ensure that your changes are in line with the project's coding conventions and style guidelines.
 
 Commit your changes: Once you've made your changes, commit them to your branch with clear and descriptive commit messages.
 
-    . git commit -m 'Add new feature'
+     git commit -m 'Add new feature'
+
 Push your changes: Push your changes to your forked repository on GitHub.
 
-    . git push origin feature/new-feature
+     git push origin feature/new-feature
     
 Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
