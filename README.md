@@ -6,7 +6,7 @@
 
 ## Demo 📸
 
-![](images/Screenshot%20(27).png
+![images](images/Screenshot%20(27).png
 
 ## Technologies Used 🛠️
 - HTML
