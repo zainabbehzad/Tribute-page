@@ -19,7 +19,8 @@ Installation 💻
 To install and set up this project, simply follow these steps:
 
 Clone the repository:
-git clone https://github.com/zainabbehzad/Tribute-page.git
+
+    git clone https://github.com/zainabbehzad/Tribute-page.git
 
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
@@ -30,7 +31,7 @@ Installation: If you haven't already, follow the installation instructions menti
 
 Navigate to project directory:
 
-   cd Technical-Documentation-page
+    cd Technical-Documentation-page
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
