@@ -6,7 +6,7 @@
 ## Demo 📸
 ![Screenshot (17)](https://github.com/zainabbehzad/Tribute-page/assets/168668702/5dbf1683-22c8-4dac-bbe0-b057400dbea8)
 
-
+[Live Demo](https://zainabbehzad.github.io/Tribute-page/)
 
 ## Technologies Used 🛠️
 - HTML
