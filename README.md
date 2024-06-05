@@ -18,7 +18,8 @@ Installation 💻
 To install and set up this project, simply follow these steps:
 
 Clone the repository:
-git clone https://github.com/zainabbehzad/Tribute-page.git
+
+    git clone https://github.com/zainabbehzad/Tribute-page.git
 
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
@@ -29,7 +30,7 @@ Installation: If you haven't already, follow the installation instructions menti
 
 Navigate to project directory:
 
-   cd Technical-Documentation-page
+    cd Tribute-page
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
@@ -42,8 +43,9 @@ Share and contribute: If you find this project helpful, consider sharing it with
 
 ## Author 👩‍💻
 
-- LinkedIn: [Zainab Behzad]
-- Email: [zainabbehzad03@gmailcom)
+- LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5)
+- Email: [zainabbehzad03@gmail.com)
+- Github: [zainabbehzad](https://github.com/)
 
 ## Contributing 🤝
 
@@ -70,8 +72,4 @@ Push your changes: Push your changes to your forked repository on GitHub.
 
      git push origin feature/new-feature
     
-
 Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
-
-Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
-
